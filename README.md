@@ -16,7 +16,7 @@ can't handle it either).
 
 (You can only get so far with 1 FPS)
 
-![yolo person detection](https://github.com/ModelDepot/tfjs-yolo-tiny/raw/master/assets/demo.gif)
+![yolo person detection](https://github.com/RenanGeorgio/tfjs-yolo-tiny/raw/master/assets/demo.gif)
 
 ## Install
 
@@ -128,7 +128,7 @@ yarn test
 yarn build
 ```
 
-Or during development, use watch mode, you can use the [demo app](https://github.com/ModelDepot/tfjs-yolo-tiny-demo)
+Or during development, use watch mode, you can use the [demo app](https://github.com/RenanGeorgio/tfjs-yolo-tiny-demo)
 to test out changes.
 
 ```
